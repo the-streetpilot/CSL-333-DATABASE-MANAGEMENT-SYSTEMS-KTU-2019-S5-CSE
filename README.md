@@ -1,6 +1,4 @@
-# Data-Base-Management-Systems-CSL-333---KTU-2019-Syllabus-for-S5-BTech-CSE-Students
-
-# Database Management Systems Lab (CSL 333) - KTU 2019 Syllabus
+# Data Base Management Systems - CSL 333 - KTU 2019 Syllabus for S5 BTech CSE Students
 
 Welcome to the repository containing SQL queries and database management implementations for the Database Management Systems lab (CSL 333) as per the KTU 2019 syllabus. This repository covers a variety of practical tasks to help you master core database concepts.
 
